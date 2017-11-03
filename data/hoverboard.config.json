@@ -1,10 +1,10 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://devrockers.com/fest/2017",
   "startDate": "2017-11-18T09:00:00+03:00",
   "endDate": "2016-11-18T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-69181903-3",
+    "dev": "UA-69181903-3"
   },
   "organizer": {
     "name": "GDG Río de La Plata",
@@ -16,27 +16,28 @@
     "backgroundColor": "#000000"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfest2016",
+    "domain": "devfest2016-6f2a5.firebaseapp.com",
+    "database": "https://devfest2016-6f2a5.firebaseio.com",
+    "api": "AIzaSyAr6CbbIW8vv0a-qjWEsNxhwQ_uOu6YS_w",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
+    "indexedDbSession": "devrockersfest2017"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://gdgriodelaplata.us12.list-manage.com/subscribe/post?u=38c6345da710be04787fed134&amp;id=bfd82a0705",
+    "name": "b_38c6345da710be04787fed134_bfd82a0705"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "devrockersfest2017",
-  "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
+  "disqusShortName": "gdgriodelaplata",
+  "__tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://devrockers.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
   "partnershipProposition": "https://drive.google.com/file/d/0B6_K7SBGDdRcV3lFVzQ0Y0hFc2tHdjlqMFdpMG8xcFRUWWJB/view",
-  "videosSessionsUrl": "https://www.youtube.com/watch?v=flCMhO2xmsE",
+  "videosSessionsUrl": "",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -65,7 +66,7 @@
     {
       "name": "gplus",
       "nickname": "117464596269458963925",
-      "url": "https://plus.google.com/117464596269458963925"
+      "url": "https://plus.google.com/u/3/117464596269458963925"
     },
     {
       "name": "facebook",
@@ -108,7 +109,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#000000",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/home_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -131,7 +132,7 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#222222",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -139,7 +140,7 @@
     "schedule": {
       "title": "Agenda",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#333333",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -147,7 +148,7 @@
     "team": {
       "title": "Equipo",
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#222222",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -155,7 +156,7 @@
     "cod": {
       "title": "Codido de conducta",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#333333",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

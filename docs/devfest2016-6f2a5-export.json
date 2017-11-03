@@ -1,0 +1,381 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/mercadolibre.svg",
+      "name" : "Mercadolibre",
+      "url" : "https://www.mercadolibre.com.ar/",
+      "width" : 340,
+      "height" : 100
+    }, {
+      "logoUrl" : "../images/logos/dataart.svg",
+      "name" : "DataArt",
+      "url" : "https://dataart.com/",
+      "width" : 250
+    }, {
+      "logoUrl" : "../images/logos/DODO.png",
+      "name" : "DODO",
+      "url" : "https://www.dodositios.com/",
+      "width" : 300
+    }, {
+      "logoUrl" : "../images/logos/logolatin.png",
+      "name" : "DODO",
+      "url" : "https://latincloud.com/",
+      "width" : 300
+    }, {
+      "logoUrl" : "../images/logos/edr.svg",
+      "name" : "Escuela Dev Rock",
+      "url" : "http://escueladevrock.com/",
+      "width" : 300
+    } ],
+    "title" : "Sponsors"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/wtm-logo-white.svg",
+      "name" : "Women Techmakers",
+      "url" : "https://www.womentechmakers.com/",
+      "width" : 300
+    }, {
+      "logoUrl" : "../images/logos/cet.svg",
+      "name" : "Chicas en Tecnología",
+      "url" : "http://www.chicasentecnologia.org/",
+      "width" : 200
+    }, {
+      "logoUrl" : "../images/logos/media-chicas.png",
+      "name" : "Media Chicas",
+      "url" : "https://www.mediachicas.com/",
+      "width" : 230
+    } ],
+    "title" : "Media partners y Amigos"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/bacloud.png",
+      "name" : "bacloud",
+      "url" : "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/"
+    } ],
+    "title" : "Comunidades"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/baciudad.svg",
+      "name" : "Buenos Aires Ciudad",
+      "url" : "http://www.buenosaires.gob.ar/",
+      "width" : 300
+    }, {
+        "logoUrl" : "../images/logos/cultural.svg",
+        "name" : "El Cultural San Martin",
+        "url" : "http://www.elculturalsanmartin.org/",
+        "width" : 300
+    } ],
+    "title" : "Venue"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-11-18",
+    "dateReadable" : "Noviembre 18",
+    "timeslots" : [ {
+      "endTime" : "10:00",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "10:00"
+    } ],
+    "tracks" : [ {
+      "title" : "Sada D"
+    }, {
+      "title" : "Sala C"
+    }, {
+      "title" : "Aula 1"
+    }, {
+      "title" : "Aula 2"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Windows and .NET on Google Cloud Platform "
+    }
+  },
+  "speakers" : [ null, {
+    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "London, United Kingdom",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Mete Atamel",
+    "photoUrl" : "/images/people/mete_atamel.jpg",
+    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/meteatamel/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/meteatamel/",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/meteatamel/",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
+    "title" : "Developer Advocate"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
+      "name" : "GDE"
+    } ],
+    "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+    "company" : "Gett",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Tel Aviv, Israel",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Yonatan Levin",
+    "photoUrl" : "/images/people/yonatan_levin.jpg",
+    "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/levin.yonatan",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/parahall",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+YonatanLevin",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
+    "title" : "Android Evangelist & Developer"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Matias Punx",
+      "photoUrl" : "/images/people/punx.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/antirockstars",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://devrockers.com/",
+        "name" : "Web"
+      } ],
+      "title" : "Website y sponsors"
+    }, {
+      "name" : "Jonatan Ariste",
+      "photoUrl" : "/images/people/joni.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jonatanariste",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jonatan.ariste",
+        "name" : "Facebook"
+      } ],
+      "title" : "Social y media"
+    }, {
+      "name" : "Laura Morinigo",
+      "photoUrl" : "/images/people/lala.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lala_morinigo",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://devrockers.com/",
+        "name" : "Web"
+      } ],
+      "title" : "Speakers y Media"
+    }, {
+      "name" : "Anita Massacane",
+      "photoUrl" : "/images/people/anita.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AnitaMassacane",
+        "name" : "Twitter"
+      } ],
+      "title" : "Sponsors, media y party"
+    }, {
+      "name" : "Juan de Lellis",
+      "photoUrl" : "/images/people/juan.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/juandelellis",
+        "name" : "Twitter"
+      } ],
+      "title" : "Sponsors"
+    } ],
+    "title" : "Organizadores"
+  }, {
+    "members" : [ {
+      "name" : "Juan Pablo",
+      "photoUrl" : "/images/people/jp.jpg",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jpmacagno",
+        "name" : "Twitter"
+      } ],
+      "title" : "GDG voluntario"
+    } ],
+    "title" : "Voluntarios"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "",
+      "ends" : "Nov 18\"",
+      "info" : "GRATIS",
+      "name" : "Gratis",
+      "price" : "GRATIS",
+      "soldOut" : false,
+      "starts" : "Nov 1"
+    } ],
+    "url" : "https://www.meetup.com/es-ES/preview/GDG-Rio-de-La-Plata/events/244093746"
+  },
+  "videos" : [ {
+    "speakers" : "Jakub Škvára",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "Polymer vs other libraries",
+    "youtubeId" : "-UEURYYVCmg"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "Scalable Microservices with gRPC, Kubernetes, and Containers",
+    "youtubeId" : "BZ-uR8LQRkA"
+  }, {
+    "speakers" : "Mandy Waite",
+    "thumbnail" : "/images/sessions/110.JPG",
+    "title" : "Google Cloud Platform End to End: How we built 'Cloud Spin'",
+    "youtubeId" : "n-H6jYnL32U"
+  }, {
+    "speakers" : "Mateusz Herych",
+    "thumbnail" : "/images/sessions/102.JPG",
+    "title" : "How can Android Backup break your app",
+    "youtubeId" : "89wvLLc25AY"
+  }, {
+    "speakers" : "Alex Pazhyn",
+    "thumbnail" : "/images/sessions/113.JPG",
+    "title" : "Material Design. Custom Branding",
+    "youtubeId" : "3u8864j4g24"
+  }, {
+    "speakers" : "Viktor Zozuliak",
+    "thumbnail" : "/images/sessions/122.JPG",
+    "title" : "Service Worker - Native Apps Experience For The Web",
+    "youtubeId" : "szLFi1aO398"
+  }, {
+    "speakers" : "Said Tahsin Dane",
+    "thumbnail" : "/images/sessions/101.JPG",
+    "title" : "Material Design on Custom Views",
+    "youtubeId" : "nFZxAIi8n7I"
+  }, {
+    "speakers" : "Ihor Dvoretskyi",
+    "thumbnail" : "/images/sessions/135.JPG",
+    "title" : "The Cloud Convergence: OpenStack and Kubernetes",
+    "youtubeId" : "3zbxUcyiP8Y"
+  }, {
+    "speakers" : "Juarez Filho",
+    "thumbnail" : "/images/sessions/120.JPG",
+    "title" : "Firebase Adventures - Real time platform for your apps",
+    "youtubeId" : "uz4vA21lqoE"
+  }, {
+    "speakers" : "Anton Minashkin",
+    "thumbnail" : "/images/sessions/134.JPG",
+    "title" : "Data Binding. Next big thing?",
+    "youtubeId" : "GYwvQ0YAPo4"
+  }, {
+    "speakers" : "Hallade Xavier",
+    "thumbnail" : "/images/sessions/112.JPG",
+    "title" : "Mastering the NDK with Android Studio 1.3+ and the gradle-experimental plugin",
+    "youtubeId" : "GbTe0BTuNaU"
+  }, {
+    "speakers" : "Jana Moudrá",
+    "thumbnail" : "/images/sessions/115.JPG",
+    "title" : "Let's play Dart!",
+    "youtubeId" : "DoUATBQcihI"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/106.JPG",
+    "title" : "Using GoLang for building micro-service architecture in Google Cloud Platform",
+    "youtubeId" : "euROYVOJYuI"
+  }, {
+    "speakers" : "Semih Yagcioglu",
+    "thumbnail" : "/images/sessions/124.JPG",
+    "title" : "Build Your Thing In a Weekend with AngularJS 2.0",
+    "youtubeId" : "gHd-0itPpGg"
+  }, {
+    "speakers" : "Dawid Ostrowski",
+    "thumbnail" : "/images/sessions/125.JPG",
+    "title" : "[Keynote] Lean Startup with Google",
+    "youtubeId" : "o04aL3IzmcQ"
+  }, {
+    "speakers" : "Constantine Mars",
+    "thumbnail" : "/images/sessions/133.JPG",
+    "title" : "RxJava for Android",
+    "youtubeId" : "3LQnqJhGQmI"
+  }, {
+    "speakers" : "Roman Mazur",
+    "thumbnail" : "/images/sessions/104.JPG",
+    "title" : "Power of Android Shell",
+    "youtubeId" : "a4InM2VhAvQ"
+  }, {
+    "speakers" : "Dmytro Danylyk",
+    "thumbnail" : "/images/sessions/103.JPG",
+    "title" : "Planning Android Screens",
+    "youtubeId" : "gQbjjOE2yF4"
+  }, {
+    "speakers" : "Dima Maleev",
+    "thumbnail" : "/images/sessions/108.JPG",
+    "title" : "V8 under the hood",
+    "youtubeId" : "Oazl4fx-X68"
+  }, {
+    "speakers" : "Kseniia Shumelchyk",
+    "thumbnail" : "/images/sessions/117.JPG",
+    "title" : "Bluetooth Low Energy and iBeacon development for Android",
+    "youtubeId" : "tEUmmZDwHDg"
+  }, {
+    "speakers" : "Maciej Górski",
+    "thumbnail" : "/images/sessions/114.JPG",
+    "title" : "Continuous Delivery with Ease",
+    "youtubeId" : "b-4upgkYdZo"
+  }, {
+    "speakers" : "Michał Tajchert",
+    "thumbnail" : "/images/sessions/105.JPG",
+    "title" : "Hijacking notification actions - lets respond to your messages!",
+    "youtubeId" : "2rT4Us7cFDg"
+  }, {
+    "speakers" : "Roman Herasymenko",
+    "thumbnail" : "/images/sessions/111.JPG",
+    "title" : "New security model in Marshmallow",
+    "youtubeId" : "lFpb-LaYDvs"
+  }, {
+    "speakers" : "Valentyn Shybanov",
+    "thumbnail" : "/images/sessions/107.JPG",
+    "title" : "Angular2: Reasoning behind technical decisions",
+    "youtubeId" : "V7GCjnfsOCE"
+  }, {
+    "speakers" : "",
+    "thumbnail" : "/images/sessions/140.JPG",
+    "title" : "Fireside Chat",
+    "youtubeId" : "8kXNWOhEAhE"
+  }, {
+    "speakers" : "Alexey Rybakov",
+    "thumbnail" : "/images/sessions/119.JPG",
+    "title" : "Android TV Development",
+    "youtubeId" : "SoXb9cXnJhc"
+  }, {
+    "speakers" : "Buşra Deniz",
+    "thumbnail" : "/images/sessions/123.JPG",
+    "title" : "Google WebRTC on Mobile",
+    "youtubeId" : "YWaOdwCenZM"
+  } ]
+}

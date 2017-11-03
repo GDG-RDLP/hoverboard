@@ -1,74 +1,74 @@
 {
   "title": "Dev Rockers Fest + Barcamp",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
+  "description": "¡La conferencia de tecnología más grande de Google en Buenos Aires se une a la anti-conferencia mas grande de Argentina!",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, barcamp",
+  "dates": "18 de noviembre, 2017",
+  "locationAddressShort": "Buenos Aires, Argentina",
+  "motto": "¡La conferencia de tecnología más grande de Google en Buenos Aires se une a la anti-conferencia mas grande de Argentina!",
+  "playIcon": "Mirá el id del 2016",
+  "c4p": "Convertite en speaker",
+  "buyTicket": "Sumate al evento",
+  "backToTop": "Ir arriba",
+  "subscribe": "Suscribite",
+  "yourEmail": "Tu email",
+  "subscribeNote": "No es spam, solo noticias y actualizaciones!",
+  "contactUs": "Contactanos",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
-  "soldOutTickets": "Sold Out",
+  "ticketsDetails": "La entrada al evento es gratuita y te da acceso a todas las conferencias y refrigerios. Los tickets no son numerados y no hay acomodador. El ingreso a los workshops tiene capacidad limitada y tenés que traer tu propia computadora ¡Lleguen temprano!",
+  "close": "Cerrar",
+  "soldOutTickets": "No disponibles",
   "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
+  "socialMotto": "Seguinos, agreganos a tus circulos, danos like.",
+  "beforeHashtag": "¿Qué está pasando?",
+  "clickToViewPhotos": "Click acá para ver mas fotos",
   "partners": "Partners",
-  "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
+  "becomePartner": "Convertite en partner",
+  "featuredVideosTitle": "Lo mejor del #DevRockersFest 2016",
+  "featuredVideosViewAll": "Ver todos los videos",
   "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
+  "featuredPeopleViewAll": "Ver todos los speakers",
+  "action": "Mirá como fue",
+  "locationTitle": "El cultural San Martin",
+  "locationDescription": "El Cultural San Martín, Ministerio de Cultura, GCBA.",
+  "locationAddress": "Sarmiento 1551, CABA",
+  "organizerTitle": "Organizador",
+  "aboutOrganizers": "<a href='http://gdgriodelaplata.com' target='_blank'>GDG Río de La Plata</a> y <a href='https://twitter.com/barcampba'>Barcamp Buenos Aires</a> junto a muchas comunidades amigas!",
+  "openTeamPage": "Abrir pagina del equipo",
+  "whatIsGdg": "¿Qué es un GDG?",
+  "aboutGdg": "Google Developers Group (GDG) es una comunidad de voluntarios geeks para crear proyectos interesantes y compartir, con pasión, experiencias sobre tecnologías de Google.",
+  "readMore": "Leer más",
+  "copyLink": "Copiar link",
+  "filteredBy": "Filtrar por",
+  "clearAll": "Borrar todo",
+  "filter": "Filtro",
+  "latestNews": "Ultimas noticias",
+  "continueReading": "Seguir leyendo",
+  "viewPresentation": "Ver presentación",
+  "viewVideo": "Ver video",
   "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "share": "Compartir",
+  "shareWith": "Compartir con",
+  "signIn": "Conectate",
+  "signOut": "Salir",
+  "mySchedule": "Mi agenda",
+  "browseMore": "Ver mas eventos",
+  "youShouldSignInSessions": "Conectate para guardar las charlas",
+  "youShouldSignInRating": "Conectate para calificar las charlar",
+  "offlineMessage": "Estás offline",
+  "removedFromSchedule": "Sacar mi agenda",
+  "addedToSchedule": "Agregado a mi agenda",
+  "rateSession": "Calificar charla",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Links utiles",
       "links": [
         {
-          "text": "Team",
+          "text": "Equipo",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Codigo de Conducta",
           "url": "/cod/",
           "newTab": false
         },
@@ -76,35 +76,15 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "¿Querés ser Sponsor?",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "text": "Propuesta para sponsors",
+          "url": "https://drive.google.com/file/d/0B6_K7SBGDdRcV3lFVzQ0Y0hFc2tHdjlqMFdpMG8xcFRUWWJB/view",
           "newTab": true
         }
       ]
@@ -113,33 +93,36 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
-      }
+        "text": "hola@gdgriodelaplata.com",
+        "url": "mailto:hola@gdgriodelaplata.com"
+      },  {
+          "text": "equipo@barcamp.com.ar",
+          "url": "mailto:equipo@barcamp.com.ar"
+        }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageTitle": "Equipo",
+  "teamPageText": "Google es conocido en todo el mundo. Todo el mundo 'googlea', busca en 'mapas' y se comunica por 'gmail'. Para la gente común, son servicios que simplemente funcionan, pero para nosotros no. Los desarrolladores vemos mucho más: las API, los problemas de escalabilidad, implementación de nuevas tecnologías, etc. De eso se trata un GDG.<br><br> [Google Developers Group (GDG) Río de La Plata](http://gdgriodelaplata.com/) es una comunidad de voluntarios geeks para crear proyectos interesantes y compartir, con pasión, experiencias sobre tecnologías de Google.<br><br> Nuestro objetivo es organizar eventos para conectar a los mejores expertos de la industria con el publico de Buenos Aires para así impulsar el crecimiento de los desarrolladores IT, achicar la brecha de género y entusiarmar a nuevos interesados para sumarse al mundo del desarrollo.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 800,
+      "caption": "Participantes"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Día"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
+      "counter": "+20",
+      "caption": "Charlas"
     },
     {
-      "counter": 3,
+      "counter": 4,
       "caption": "Tracks"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "Dev Rockers Fest 2016",
+    "videoId": "flCMhO2xmsE"
   }
 }
