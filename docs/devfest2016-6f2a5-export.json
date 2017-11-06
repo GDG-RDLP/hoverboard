@@ -51,6 +51,10 @@
       "logoUrl" : "../images/logos/bacloud.png",
       "name" : "bacloud",
       "url" : "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/"
+    },{
+      "logoUrl" : "../images/logos/netbaires.png",
+      "name" : "Netbaires",
+      "url" : "https://www.meetup.com/es/Net-Baires/"
     } ],
     "title" : "Comunidades"
   }, {
@@ -90,72 +94,124 @@
     } ]
   } ],
   "sessions" : {
-    "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "id" : 101,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ 1 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+    "1001" : {
+      "complexity" : "",
+      "description" : "Bienvenida al Dev Rockers Fest 2017 + Barcamp Buenos Aires",
+      "id" : 1001,
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ 0 ],
+      "tags" : [ "Bienvenida" ],
+      "title" : "¡Bienvenida al evento!"
     }
   },
   "speakers" : [ null, {
-    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "bio" : "Co-organizador de Android Devs Buenos Aires. Una comunidad enfocada al desarrollo Android nativo. Por lo general hacemos un encuentro mensual, pueden ver los distintos eventos en este link https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/",
     "company" : "Google",
     "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "London, United Kingdom",
+    "country" : "Buenos Aires, Argentina",
     "featured" : true,
     "id" : 1,
-    "name" : "Mete Atamel",
-    "photoUrl" : "/images/people/mete_atamel.jpg",
-    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "name" : "Ezequiel Zanetta",
+    "photoUrl" : "/images/people/ezanetta.jpg",
+    "shortBio" : "Desarrollador Android, Co-organizador de Android Devs Buenos Aires...",
     "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/meteatamel/",
-      "name" : "LinkedIn"
-    }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/meteatamel/",
+      "link" : "https://twitter.com/zanettapp",
       "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/meteatamel/",
-      "name" : "GitHub"
     } ],
-    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-    "title" : "Developer Advocate"
+    "tags" : [ "Android" ],
+    "title" : "Desarrollador Android"
   }, {
     "badges" : [ {
       "description" : "Android Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
+      "link" : "https://developers.google.com/experts/",
       "name" : "GDE"
     } ],
-    "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-    "company" : "Gett",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Tel Aviv, Israel",
+    "bio" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Bolivia",
     "featured" : true,
     "id" : 2,
-    "name" : "Yonatan Levin",
-    "photoUrl" : "/images/people/yonatan_levin.jpg",
-    "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+    "name" : "Yury Camacho",
+    "photoUrl" : "/images/people/yury.jpg",
+    "shortBio" : "GDE de Android. Yury es Manager de GDG Cochabamba...",
     "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/levin.yonatan",
-      "name" : "Facebook"
-    }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/parahall",
+      "link" : "https://twitter.com/camachoyury",
       "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+YonatanLevin",
-      "name" : "Google+"
     } ],
-    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-    "title" : "Android Evangelist & Developer"
+    "tags" : [ "Android", "Mobile UX", "Kotlin" ],
+    "title" : "Desarrollador Android"
+  }, {
+    "bio" : "",
+    "company" : "Microsoft",
+    "companyLogo" : "/images/logos/microsoft.png",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Germán Küber",
+    "photoUrl" : "/images/people/germank.jpg",
+    "shortBio" : "C#, .Net, Arquitectura, TypeScript, Angular, Msp, MVP, @NetBaires",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/germankuber",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ ".NET" ],
+    "title" : "Desarrollador .NET"
+  }, {
+    "bio" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Venezuela",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Christopher Chance",
+    "photoUrl" : "/images/people/christopher.jpg",
+    "shortBio" : "CEO & Founder at http://SocialForALL.net  , http://YourSpeaker.net  - Organizador en PHP Baires - FullStack Developer.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chrischance67",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "PHP" ],
+    "title" : "Desarrollador PHP"
+  }, {
+    "bio" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Rosario, Argentina",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Germán Quiróz Bogner",
+    "photoUrl" : "/images/people/german.png",
+    "shortBio" : "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/gquirozbogner",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web", "Polymer", "Firebase" ],
+    "title" : "Desarrollador Fullstack"
+  }, {
+    "bio" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Córdoba, Argentina",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Pablo Perez De Angelis",
+    "photoUrl" : "/images/people/pablopda.jpg",
+    "shortBio" : "Fundador de tuQuejaSuma, Universidad Nacional de Córdoba - FaMAF",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/pablopda/",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Tensor Flow", "Machine Learning" ],
+    "title" : "Ingeniero"
   } ],
   "team" : [ {
     "members" : [ {

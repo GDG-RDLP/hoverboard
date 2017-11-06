@@ -1,5 +1,5 @@
 {
-  "url": "https://devrockers.com/fest/2017",
+  "url": "https://devrockers.com",
   "startDate": "2017-11-18T09:00:00+03:00",
   "endDate": "2016-11-18T19:00:00+03:00",
   "analytics": {
@@ -35,7 +35,7 @@
   "hashtag": "devrockersfest2017",
   "disqusShortName": "gdgriodelaplata",
   "__tweetsSource": "/data/tweets.json",
-  "tweetsSource": "https://devrockers.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
+  "tweetsSource": "https://devrockers.herokuapp.com/searchjson.php?c=10&cache_interval=8000&q=DevRockersFest",
   "partnershipProposition": "https://drive.google.com/file/d/0B6_K7SBGDdRcV3lFVzQ0Y0hFc2tHdjlqMFdpMG8xcFRUWWJB/view",
   "videosSessionsUrl": "",
   "enableSessionsRating": true,
@@ -75,7 +75,7 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyACOLbSpnM6A02PAUxbPbQxx27kkO_EaeE",
     "name": "El Cultural San Martin",
     "address": "Sarmiento 1551, Buenos Aires, CABA",
     "link": "https://twitter.com/culturalsanmar",
