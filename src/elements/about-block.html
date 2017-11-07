@@ -19,7 +19,7 @@
 
       .about-item {
         @apply(--layout-flex-5);
-        text-align: justify;
+        /*text-align: justify;*/
       }
 
       .about-item:not(:first-of-type) {
@@ -63,6 +63,13 @@
       <div class="about-item">
         <h4 class="heading">{$ whatIsGdg $}</h4>
         <marked-element markdown="{$ aboutGdg $}">
+          <div class="markdown-html"></div>
+        </marked-element>
+      </div>
+      <span class="divider"></span>
+      <div class="about-item">
+        <h4 class="heading">{$ whatIsBar $}</h4>
+        <marked-element markdown="{$ aboutBar $}">
           <div class="markdown-html"></div>
         </marked-element>
       </div>

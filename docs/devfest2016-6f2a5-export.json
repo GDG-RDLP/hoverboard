@@ -76,11 +76,11 @@
     "dateReadable" : "Noviembre 18",
     "timeslots" : [ {
       "endTime" : "10:00",
-      "sessions" : [ [ 101 ] ],
+      "sessions" : [ [ 1001 ] ],
       "startTime" : "09:00"
     }, {
       "endTime" : "10:15",
-      "sessions" : [ [ 101 ] ],
+      "sessions" : [ [ 1001 ] ],
       "startTime" : "10:00"
     } ],
     "tracks" : [ {
@@ -289,12 +289,12 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "",
-      "ends" : "Nov 18\"",
+      "ends" : "Nov 18",
       "info" : "GRATIS",
       "name" : "Gratis",
       "price" : "GRATIS",
       "soldOut" : false,
-      "starts" : "Nov 1"
+      "starts" : "Nov 18"
     } ],
     "url" : "https://www.meetup.com/es-ES/preview/GDG-Rio-de-La-Plata/events/244093746"
   },

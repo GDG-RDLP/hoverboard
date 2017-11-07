@@ -62,6 +62,10 @@
       "name": "twitter",
       "nickname": "GDG Río de La Plata",
       "url": "https://twitter.com/gdgriodelaplata"
+    }, {
+      "name": "twitter",
+      "nickname": "Barcamp BA",
+      "url": "https://twitter.com/barcampba"
     },
     {
       "name": "gplus",
@@ -114,8 +118,8 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "Dev Rockers Fest 2017",
-          "youtubeId": "flCMhO2xmsE",
-          "text": "Mirá el id del 2016"
+          "youtubeId": "_TD-bceL4S8",
+          "text": "Mirá el spot de este año!"
         },
         "hideLogo": true,
         "minHeight": "360px"

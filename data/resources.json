@@ -5,7 +5,7 @@
   "dates": "18 de noviembre, 2017",
   "locationAddressShort": "Buenos Aires, Argentina",
   "motto": "¡La conferencia de tecnología más grande de Google en Buenos Aires se une a la anti-conferencia mas grande de Argentina!",
-  "playIcon": "Mirá el id del 2016",
+  "playIcon": "Mirá el spot de este año!",
   "c4p": "Convertite en speaker",
   "buyTicket": "Sumate al evento",
   "backToTop": "Ir arriba",
@@ -36,6 +36,8 @@
   "openTeamPage": "Abrir pagina del equipo",
   "whatIsGdg": "¿Qué es un GDG?",
   "aboutGdg": "Google Developers Group (GDG) es una comunidad de voluntarios geeks para crear proyectos interesantes y compartir, con pasión, experiencias sobre tecnologías de Google.",
+  "whatIsBar": "¿Qué es Barcamp?",
+  "aboutBar": "Barcamp es una anti-conferencia donde no hay charlas fijas, no hay oradores fijos sino que los asistentes van anotando las charlas que quieren dar a medida que van llegando.",
   "readMore": "Leer más",
   "copyLink": "Copiar link",
   "filteredBy": "Filtrar por",
@@ -95,7 +97,7 @@
       {
         "text": "hola@gdgriodelaplata.com",
         "url": "mailto:hola@gdgriodelaplata.com"
-      },  {
+      }, {
           "text": "equipo@barcamp.com.ar",
           "url": "mailto:equipo@barcamp.com.ar"
         }
@@ -122,7 +124,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "Dev Rockers Fest 2016",
+    "videoTitle": "Mirá el id del Dev Rockers Fest 2016",
     "videoId": "flCMhO2xmsE"
   }
 }
