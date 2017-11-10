@@ -31,7 +31,7 @@
   "locationTitle": "El cultural San Martin",
   "locationDescription": "El Cultural San Martín, Ministerio de Cultura, GCBA.",
   "locationAddress": "Sarmiento 1551, CABA",
-  "organizerTitle": "Organizador",
+  "organizerTitle": "Organizadores",
   "aboutOrganizers": "<a href='http://gdgriodelaplata.com' target='_blank'>GDG Río de La Plata</a> y <a href='https://twitter.com/barcampba'>Barcamp Buenos Aires</a> junto a muchas comunidades amigas!",
   "openTeamPage": "Abrir pagina del equipo",
   "whatIsGdg": "¿Qué es un GDG?",
@@ -105,6 +105,7 @@
   },
   "teamPageTitle": "Equipo",
   "teamPageText": "Google es conocido en todo el mundo. Todo el mundo 'googlea', busca en 'mapas' y se comunica por 'gmail'. Para la gente común, son servicios que simplemente funcionan, pero para nosotros no. Los desarrolladores vemos mucho más: las API, los problemas de escalabilidad, implementación de nuevas tecnologías, etc. De eso se trata un GDG.<br><br> [Google Developers Group (GDG) Río de La Plata](http://gdgriodelaplata.com/) es una comunidad de voluntarios geeks para crear proyectos interesantes y compartir, con pasión, experiencias sobre tecnologías de Google.<br><br> Nuestro objetivo es organizar eventos para conectar a los mejores expertos de la industria con el publico de Buenos Aires para así impulsar el crecimiento de los desarrolladores IT, achicar la brecha de género y entusiarmar a nuevos interesados para sumarse al mundo del desarrollo.",
+  "teamBarcampPageText": "Esta será la 9na edición de BarCamp Buenos Aires, el evento sin fines de lucro que reúne a cientos de personas para compartir conocimientos sobre tecnología, programación, redes sociales, diseño y emprendedorismo en un ambiente participativo de charlas abiertas.<br><br>Barcamp siempre se caracteriza por ser una anti-conferencia dónde hay espacio para exponer nuevas ideas, pensar en propuestas relacionadas al futuro y que muchos se animen a dar un primer paso y compartir sus motivaciones o lo que están trabajando.<br><br>Además, hay cerveza.....",
   "statistics": [
     {
       "counter": 800,
