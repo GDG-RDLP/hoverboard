@@ -100,7 +100,7 @@
       "startTime" : "11:00"
     }, {
       "endTime" : "13:00",
-      "sessions" : [ [ 1005 ], [ 1004 ], [ 1004 ], [ 1040 ] ],
+      "sessions" : [ [ 107 ], [ 1004 ], [ 1004 ], [ 1040 ] ],
       "startTime" : "12:00"
     }, {
       "endTime" : "14:00",
@@ -108,7 +108,7 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 1004 ], [ 102 ], [ 1004 ], [ 105 ] ],
+      "sessions" : [ [ 1004 ], [ 106 ], [ 1004 ], [ 105 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "16:00",
@@ -116,11 +116,11 @@
       "startTime" : "15:00"
     }, {
       "endTime" : "17:00",
-      "sessions" : [ [ 1004 ], [ 106 ], [ 1005 ], [ 1004 ] ],
+      "sessions" : [ [ 1004 ], [ 102 ], [ 1005 ], [ 1004 ] ],
       "startTime" : "16:00"
     }, {
       "endTime" : "18:00",
-      "sessions" : [ [ 1005 ], [ 1004 ], [ 1005 ], [ 1004 ] ],
+      "sessions" : [ [ 108 ], [ 109 ], [ 1005 ], [ 1004 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "19:00",
@@ -188,6 +188,33 @@
       "speakers" : [ [ 3 ] ],
       "tags" : [ "Web" ],
       "title" : "¿Programación reactiva? ¿Qué es RxJs?"
+    },
+    "107" : {
+      "description" : "La programación en android evoluciona cada día con la llegada de nuevos frameworks, paradigmas, lenguajes  que vienen a ayudar o mejorar la experiencia de desarrollo.<br>Es el caso de  la programación reactiva que tiene mucha características que pueden ser muy bien aprovechadas por los programadores android en esta charla hablaremos de las principales características y como aplicar la programación reactiva.",
+      "id" : 107,
+      "language" : "Español",
+      "reqs" : "",
+      "speakers" : [ [ 2 ] ],
+      "tags" : [ "Android" ],
+      "title" : "Programación Reactiva en Android."
+    },
+    "108" : {
+      "description" : "Chicas en Tecnologia",
+      "id" : 108,
+      "language" : "Español",
+      "reqs" : "",
+      "speakers" : [ [ 12 ] ],
+      "tags" : [ "Comunidad" ],
+      "title" : "Chicas en Tecnologia"
+    },
+    "109" : {
+      "description" : "La migración de AngularJs a Angular 2 no tiene por qué ser un dolor de cabeza. En esta charla descubriremos cómo preparar nuestras aplicaciones en Angular 1 para ser migradas a Angular 2, sin morir en el intentó.",
+      "id" : 109,
+      "language" : "Español",
+      "reqs" : "",
+      "speakers" : [ [ 3 ] ],
+      "tags" : [ "Web" ],
+      "title" : "Como preparar aplicaciones AngularJs para ser migradas a Angular 2/4"
     },
     "1001" : {
       "description" : "",
@@ -279,15 +306,15 @@
       "link" : "https://developers.google.com/experts/",
       "name" : "GDE"
     } ],
-    "bio" : "",
-    "company" : "",
+    "bio" : "Yury Camacho, Google Developer Expert de Android, Organizador GDG Cochabamba, Android Technical Lead en Globant",
+    "company" : "Globant",
     "companyLogo" : "",
     "country" : "Bolivia",
     "featured" : true,
     "id" : 2,
     "name" : "Yury Camacho",
     "photoUrl" : "/images/people/yury.jpg",
-    "shortBio" : "GDE de Android. Yury es Manager de GDG Cochabamba...",
+    "shortBio" : "Yury Camacho, Google Developer Expert de Android, Organizador GDG Cochabamba, Android Technical Lead en Globant",
     "socials" : [ {
       "icon" : "twitter",
       "link" : "https://twitter.com/camachoyury",
@@ -427,6 +454,23 @@
     "socials" : [ {
       "icon" : "twitter",
       "link" : "https://twitter.com/geekmz",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android", "Java", "Kotlin", "iOS", "Swift" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Software Engineer. Crowdsourcing enthusiast. Traveler. Product Manager ► @flybondioficial. +1 tech team ► @chicasentec. Proud anteater alumni ► @UCIrvine",
+    "company" : "Chicas en Tecnología",
+    "companyLogo" : "/images/logos/cet.svg",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Consuelo López",
+    "photoUrl" : "/images/people/consu.png",
+    "shortBio" : "Software Engineer. Crowdsourcing enthusiast. Traveler.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/consu_l",
       "name" : "Twitter"
     } ],
     "tags" : [ "Android", "Java", "Kotlin", "iOS", "Swift" ],
