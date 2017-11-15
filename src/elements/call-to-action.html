@@ -17,14 +17,17 @@
       }
 
       .container {
-        @apply(--layout-vertical);
-        @apply(--layout-center-center);
+        /*@apply(--layout-vertical);
+        @apply(--layout-center-center);*/
       }
 
       .heading {
-        @apply(--layout-flex-auto);
-        @apply(--layout-self-center);
+        /*@apply(--layout-flex-auto);
+        @apply(--layout-self-center);*/
         margin-bottom: 0 !important;
+      }
+      p {
+        font-size: 18px;
       }
 
       @media (max-width: 599px) {
@@ -35,7 +38,7 @@
 
       @media (min-width: 600px) {
         .container {
-          @apply(--layout-horizontal);
+          /*@apply(--layout-horizontal);*/
         }
 
         .heading {
@@ -45,8 +48,9 @@
     </style>
 
     <div class="container container-narrow">
-      <h4 class="heading">{$ callToAction.videoTitle $}</h4>
-      <paper-button class="open-dialog-button" on-tap="playVideo">{$ action $}</paper-button>
+      <h4 class="heading">Barcamp: ¿Qué es una des-conferencia?</h4>
+      <p>Como todos saben, la idea de la des-conferencia que refleja Barcamp, invita a que los que quieran, puedan tener el espacio para presentar su charla y dar a conocer lo que están haciendo.
+Si nunca diste una charla o no encontraste tu espacio, Barcamp puede ser el lugar dónde des tus primeros pasos, compartiendo tus conocimientos y divulgando ese descubrimiento o conocimiento que te apasiona y que pensás que a otros les puede interesar. No tengas miedo vení y sumate.</p>
     </div>
 
   </template>

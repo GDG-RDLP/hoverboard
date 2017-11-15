@@ -1,0 +1,18 @@
+, {
+  "bio" : "",
+  "company" : "",
+  "companyLogo" : "",
+  "country" : "Venezuela",
+  "featured" : true,
+  "id" : 4,
+  "name" : "Christopher Chance",
+  "photoUrl" : "/images/people/christopher.jpg",
+  "shortBio" : "CEO & Founder at http://SocialForALL.net  , http://YourSpeaker.net  - Organizador en PHP Baires - FullStack Developer.",
+  "socials" : [ {
+    "icon" : "twitter",
+    "link" : "https://twitter.com/chrischance67",
+    "name" : "Twitter"
+  } ],
+  "tags" : [ "PHP" ],
+  "title" : "Desarrollador PHP"
+}

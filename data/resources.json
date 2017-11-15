@@ -19,13 +19,13 @@
   "soldOutTickets": "No disponibles",
   "socialTitle": "Social",
   "socialMotto": "Seguinos, agreganos a tus circulos, danos like.",
-  "beforeHashtag": "¿Qué está pasando?",
+  "beforeHashtag": "¿Qué está pasando en la comunidad?",
   "clickToViewPhotos": "Click acá para ver mas fotos",
   "partners": "Partners",
   "becomePartner": "Convertite en partner",
   "featuredVideosTitle": "Lo mejor del #DevRockersFest 2016",
   "featuredVideosViewAll": "Ver todos los videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Dev Rockers Fest Speakers",
   "featuredPeopleViewAll": "Ver todos los speakers",
   "action": "Mirá como fue",
   "locationTitle": "El cultural San Martin",
@@ -70,7 +70,7 @@
           "newTab": false
         },
         {
-          "text": "Codigo de Conducta",
+          "text": "Código de Conducta",
           "url": "/cod/",
           "newTab": false
         },

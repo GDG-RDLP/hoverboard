@@ -186,7 +186,7 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          <a href="" rel="noopener noreferrer" on-tap="_trackBuyClick">
             <paper-button class="action-button">{$ buyTicket $}</paper-button>
           </a>
         </div>
@@ -239,6 +239,14 @@
 
         _trackBuyClick: function () {
           HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'toolbar');
+          //alert(this.app.tickets.url);
+          var domain = window.location.hostname;
+          console.log(domain);
+          if(domain == 'www.barcamp.com.ar') {
+            window.open(this.app.tickets.url_barcamp);
+          }else{
+            window.open(this.app.tickets.url);
+          }
         }
 
       });

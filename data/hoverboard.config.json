@@ -76,6 +76,11 @@
       "name": "facebook",
       "nickname": "GDG Río de La Plata",
       "url": "https://www.facebook.com/gdgriodelaplata"
+    },
+    {
+      "name": "facebook",
+      "nickname": "Barcamp Buenos Aires",
+      "url": "https://www.facebook.com/barcampba"
     }
   ],
   "location": {
@@ -101,9 +106,9 @@
   "gallery": {
     "albumUrl": "",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/barcamp3.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_1.jpg",
         "/images/backgrounds/2015_3.jpg"
       ]
     }
@@ -137,6 +142,7 @@
       "title": "Speakers",
       "headerSettings": {
         "backgroundColor": "#222222",
+        "backgroundImage": "/images/backgrounds/speakers.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -145,6 +151,7 @@
       "title": "Agenda",
       "headerSettings": {
         "backgroundColor": "#333333",
+        "backgroundImage": "/images/backgrounds/agenda.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -158,9 +165,10 @@
       }
     },
     "cod": {
-      "title": "Codido de conducta",
+      "title": "Código de conducta",
       "headerSettings": {
         "backgroundColor": "#333333",
+        "backgroundImage": "/images/backgrounds/barcamp4.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

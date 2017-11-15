@@ -1,11 +1,11 @@
 {
   "partners" : [ {
     "logos" : [ {
+      "height" : 100,
       "logoUrl" : "../images/logos/mercadolibre.svg",
       "name" : "Mercadolibre",
       "url" : "https://www.mercadolibre.com.ar/",
-      "width" : 340,
-      "height" : 100
+      "width" : 340
     }, {
       "logoUrl" : "../images/logos/dataart.svg",
       "name" : "DataArt",
@@ -25,6 +25,18 @@
       "logoUrl" : "../images/logos/edr.svg",
       "name" : "Escuela Dev Rock",
       "url" : "http://escueladevrock.com/",
+      "width" : 300
+    }, {
+      "height" : 100,
+      "logoUrl" : "../images/logos/wowlat.png",
+      "name" : "WOWLAT",
+      "url" : "http://wowlat.org",
+      "width" : 172
+    }, {
+      "height" : 100,
+      "logoUrl" : "../images/logos/rana.svg",
+      "name" : "RANA WEB SOLUTIONS",
+      "url" : "http://www.rana.com.ar/",
       "width" : 300
     } ],
     "title" : "Sponsors"
@@ -51,10 +63,14 @@
       "logoUrl" : "../images/logos/bacloud.png",
       "name" : "bacloud",
       "url" : "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/"
-    },{
-      "logoUrl" : "../images/logos/netbaires.png",
+    }, {
+      "logoUrl" : "../images/logos/netbaires.jpeg",
       "name" : "Netbaires",
       "url" : "https://www.meetup.com/es/Net-Baires/"
+    }, {
+      "logoUrl" : "../images/logos/androidbsas.jpg",
+      "name" : "Android Baires",
+      "url" : "https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/"
     } ],
     "title" : "Comunidades"
   }, {
@@ -64,10 +80,10 @@
       "url" : "http://www.buenosaires.gob.ar/",
       "width" : 300
     }, {
-        "logoUrl" : "../images/logos/cultural.svg",
-        "name" : "El Cultural San Martin",
-        "url" : "http://www.elculturalsanmartin.org/",
-        "width" : 300
+      "logoUrl" : "../images/logos/cultural.svg",
+      "name" : "El Cultural San Martin",
+      "url" : "http://www.elculturalsanmartin.org/",
+      "width" : 300
     } ],
     "title" : "Venue"
   } ],
@@ -78,41 +94,41 @@
       "endTime" : "10:30",
       "sessions" : [ [ 1001 ] ],
       "startTime" : "10:00"
-    },{
+    }, {
       "endTime" : "12:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 1004 ], [ 1005 ], [ 101 ], [ 104 ] ],
       "startTime" : "11:00"
-    },{
+    }, {
       "endTime" : "13:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 1005 ], [ 1004 ], [ 1004 ], [ 1040 ] ],
       "startTime" : "12:00"
-    },{
+    }, {
       "endTime" : "14:00",
       "sessions" : [ [ 1002 ] ],
       "startTime" : "13:00"
-    },{
+    }, {
       "endTime" : "15:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 1004 ], [ 102 ], [ 1004 ], [ 105 ] ],
       "startTime" : "14:00"
-    },{
+    }, {
       "endTime" : "16:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 103 ], [ 1004 ], [ 1004 ], [ 1050 ] ],
       "startTime" : "15:00"
-    },{
+    }, {
       "endTime" : "17:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 1004 ], [ 106 ], [ 1005 ], [ 1004 ] ],
       "startTime" : "16:00"
-    },{
+    }, {
       "endTime" : "18:00",
-      "sessions" : [ 0 ],
+      "sessions" : [ [ 1005 ], [ 1004 ], [ 1005 ], [ 1004 ] ],
       "startTime" : "17:00"
-    },{
+    }, {
       "endTime" : "19:00",
       "sessions" : [ [ 1003 ] ],
       "startTime" : "18:00"
-    }],
+    } ],
     "tracks" : [ {
-      "title" : "Sada C"
+      "title" : "Sala C"
     }, {
       "title" : "Sala D"
     }, {
@@ -122,9 +138,61 @@
     } ]
   } ],
   "sessions" : {
+    "101" : {
+      "description" : "API Rest, es uno de los términos mas mencionados en este ultimo tiempo. En este workshop entenderemos algunos de los conceptos que se encuentran girando entorno a servicios REST.<br>Comprenderemos porque y para que implementar servicios REST en nuestro negocio.<br>Para implementar cada componente de nuestra arquitectura planteada, usaremos PHP. Entendemos como diseñar una API robusta y que sea capaz de cambiar conforme nuestro negocio cambia.",
+      "id" : 101,
+      "language" : "Español",
+      "speakers" : [ 4 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Creando una API Rest en PHP"
+    },
+    "102" : {
+      "description" : "",
+      "id" : 102,
+      "language" : "Español",
+      "speakers" : [ 5 ],
+      "tags" : [ "Firebase" ],
+      "title" : "MVC&CDN con Firebase Cloud Functions"
+    },
+    "103" : {
+      "description" : "",
+      "id" : 103,
+      "language" : "Español",
+      "speakers" : [ 6 ],
+      "tags" : [ "TensorFlow" ],
+      "title" : "TensorFlow and Deep Learning"
+    },
+    "104" : {
+      "description" : "Se hará un recorrido por todos los temas básicos necesarios para empezar a desarrollar aplicaciones nativas para Android, y se desarrollará un ejemplo en vivo. junto a los asistentes Es deseable que quienes asista tengan nociones básica de programación orientada a objetos (herencia, sobreescritura de métodos, etc), aunque el workshop es abierto al público en general y todos pueden aprender!",
+      "id" : 104,
+      "language" : "Español",
+      "reqs" : "Traer computadora.",
+      "speakers" : [ [ 7 ], [ 8 ], [ 9 ] ],
+      "tags" : [ "Android" ],
+      "title" : "Primeros pasos con Android (Parte 1)"
+    },
+    "105" : {
+      "description" : "Se dará una charla introductoria sobre los beneficios y características del lenguaje, y luego se desarrollara una aplicación de noticias 100% escrita en Kotlin. Esta apuntado a personas que ya tengan conocimiento en desarrollo android, ya que utilizaremos libs como Retrofit, Glide, Gson, etc.",
+      "id" : 105,
+      "language" : "Español",
+      "reqs" : "Traer computadora, tener instalado Android Studio 3.0.",
+      "speakers" : [ [ 1 ], [ 10 ] ],
+      "tags" : [ "Android" ],
+      "title" : "Tu primer App Kotlin (Parte 1)"
+    },
+    "106" : {
+      "description" : "RxJS es una biblioteca para componer programas asincrónicos y basados en eventos mediante el uso de secuencias observables. Proporciona un tipo de núcleo, Observable, tipos de satélite (Observador, Programadores, Sujetos) y operadores inspirados en Array # extras (asignar, filtrar, reducir, cada, etc.) para permitir el manejo de eventos asincrónicos como colecciones.",
+      "id" : 106,
+      "language" : "Español",
+      "reqs" : "",
+      "speakers" : [ [ 3 ] ],
+      "tags" : [ "Web" ],
+      "title" : "¿Programación reactiva? ¿Qué es RxJs?"
+    },
     "1001" : {
       "description" : "",
       "id" : 1001,
+      "image" : "/images/backgrounds/checkin.png",
       "language" : "Español",
       "title" : "¡Bienvenida al evento!"
     },
@@ -137,14 +205,44 @@
     "1003" : {
       "description" : "¡Asegurense de no perderse el cierre del evento donde vamos a dar muchos regalitos!",
       "id" : 1003,
-      "image" : "/images/backgrounds/closing.jpg",
-      "title" : "Cierre del evento y sorteos"
+      "image" : "/images/backgrounds/cierre.jpg",
+      "title" : "Cierre del evento y sorpresas."
+    },
+    "1004" : {
+      "description" : "Dentro de este modulo van a encontrar charlas que se van a ir registrando el mismo dia del evento.",
+      "id" : 1004,
+      "image" : "/images/backgrounds/barcamp2.jpg",
+      "title" : "¡Módulo Barcamp!"
+    },
+    "1005" : {
+      "description" : "",
+      "id" : 1005,
+      "image" : "/images/backgrounds/2015_2.jpg",
+      "title" : "¡Charla GDG a confirmar!"
+    },
+    "1040" : {
+      "description" : "Se hará un recorrido por todos los temas básicos necesarios para empezar a desarrollar aplicaciones nativas para Android, y se desarrollará un ejemplo en vivo. junto a los asistentes Es deseable que quienes asista tengan nociones básica de programación orientada a objetos (herencia, sobreescritura de métodos, etc), aunque el workshop es abierto al público en general y todos pueden aprender!",
+      "id" : 1040,
+      "language" : "Español",
+      "reqs" : "Traer computadora.",
+      "speakers" : [ [ 7 ], [ 8 ], [ 9 ] ],
+      "tags" : [ "Android" ],
+      "title" : "Primeros pasos con Android (Parte 2)"
+    },
+    "1050" : {
+      "description" : "Se dará una charla introductoria sobre los beneficios y características del lenguaje, y luego se desarrollara una aplicación de noticias 100% escrita en Kotlin. Esta apuntado a personas que ya tengan conocimiento en desarrollo android, ya que utilizaremos libs como Retrofit, Glide, Gson, etc.",
+      "id" : 1050,
+      "language" : "Español",
+      "reqs" : "Traer computadora, tener instalado Android Studio 3.0.",
+      "speakers" : [ [ 1 ], [ 10 ] ],
+      "tags" : [ "Android" ],
+      "title" : "Tu primer App Kotlin (Parte 2)"
     }
   },
   "speakers" : [ null, {
-    "bio" : "Co-organizador de Android Devs Buenos Aires. Una comunidad enfocada al desarrollo Android nativo. Por lo general hacemos un encuentro mensual, pueden ver los distintos eventos en este link https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "bio" : "Desarrollador desde 2011, Necochense. Co-Organizador de Android Devs Buenos Aires. Creador de Bastapp. Contador de chistes malos Sr.",
+    "company" : "",
+    "companyLogo" : "",
     "country" : "Buenos Aires, Argentina",
     "featured" : true,
     "id" : 1,
@@ -158,6 +256,23 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "Desarrollador Android"
+  }, {
+    "bio" : "CEO & Founder at http://SocialForALL.net, http://YourSpeaker.net  - Organizador en PHP Baires - FullStack Developer.",
+    "company" : "SocialForAll",
+    "companyLogo" : "",
+    "country" : "Venezuela",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Christopher Chance",
+    "photoUrl" : "/images/people/christopher.jpg",
+    "shortBio" : "CEO & Founder at http://SocialForALL.net, http://YourSpeaker.net  - Organizador en PHP Baires - FullStack Developer.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chrischance67",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Cloud", "PHP" ],
+    "title" : "Desarrollador PHP"
   }, {
     "badges" : [ {
       "description" : "Android Google Developer Expert",
@@ -181,9 +296,9 @@
     "tags" : [ "Android", "Mobile UX", "Kotlin" ],
     "title" : "Desarrollador Android"
   }, {
-    "bio" : "",
-    "company" : "Microsoft",
-    "companyLogo" : "/images/logos/microsoft.png",
+    "bio" : "Mas de 8 años trabajando como desarrollador Back End . Mas de 2 años trabajando con tecnologías FrontEnd. Apasionado por: C#, Angular, TypeScript, JavaScript, Arquitectura de Software.<br>Microsoft Student Partner, Microsoft MVP.<br>Organizador de la comunidad de Net-Baires.",
+    "company" : "Net-baires",
+    "companyLogo" : "/images/logos/netbaires.jpeg",
     "country" : "Buenos Aires, Argentina",
     "featured" : true,
     "id" : 3,
@@ -195,25 +310,8 @@
       "link" : "https://twitter.com/germankuber",
       "name" : "Twitter"
     } ],
-    "tags" : [ ".NET" ],
+    "tags" : [ ".NET", [ "TypeScript" ], [ "Azure" ] ],
     "title" : "Desarrollador .NET"
-  }, {
-    "bio" : "",
-    "company" : "",
-    "companyLogo" : "",
-    "country" : "Venezuela",
-    "featured" : true,
-    "id" : 4,
-    "name" : "Christopher Chance",
-    "photoUrl" : "/images/people/christopher.jpg",
-    "shortBio" : "CEO & Founder at http://SocialForALL.net  , http://YourSpeaker.net  - Organizador en PHP Baires - FullStack Developer.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/chrischance67",
-      "name" : "Twitter"
-    } ],
-    "tags" : [ "PHP" ],
-    "title" : "Desarrollador PHP"
   }, {
     "bio" : "",
     "company" : "",
@@ -246,8 +344,93 @@
       "link" : "https://www.linkedin.com/in/pablopda/",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "Tensor Flow", "Machine Learning" ],
+    "tags" : [ "TensorFlow", "Machine Learning" ],
     "title" : "Ingeniero"
+  }, {
+    "bio" : "Desarrollador desde 2013, Fundador-Organizador de Android Devs Buenos Aires, ayudante de Diseño de Sistemas en UTN. Habilidoso en el consumo de birra, enfermo del fútbol y del rock nacional.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Julián Ezequiel Picó",
+    "photoUrl" : "/images/people/julianpico.png",
+    "shortBio" : "Desarrollador desde 2013, Fundador-Organizador de Android Devs Buenos Aires",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/juliann_ezeqiel",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Co-organizadora en Android Devs Buenos Aires. Programadora mobile en develUp.",
+    "company" : "develUp",
+    "companyLogo" : "",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Maribel Maisano",
+    "photoUrl" : "/images/people/mari.jpg",
+    "shortBio" : "Co-organizadora en Android Devs Buenos Aires. Programadora mobile en develUp.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/maribelmai",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Desarrollador mobile en develUp y co-organizador de Android Devs Buenos Aires. En el mundo de la programación Android desde 2011.",
+    "company" : "develUp",
+    "companyLogo" : "",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Facundo Rodríguez Arceri",
+    "photoUrl" : "/images/people/arceri.jpg",
+    "shortBio" : "Desarrollador mobile en develUp y co-organizador de Android Devs Buenos Aires.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/facundomr",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Apasionado del buen café y del fútbol con amigos. Hace más de 4 años que desarrollo mobile.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Rodrigo De Luca",
+    "photoUrl" : "/images/people/rodriluca.png",
+    "shortBio" : "Apasionado del buen café y del fútbol con amigos. Hace más de 4 años que desarrollo mobile.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/rodrideluca",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Desarrollador Mobile desde el 2010. Developer en Zynga. Autodidacta y emprendedor.",
+    "company" : "Zynga",
+    "companyLogo" : "",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Mariano Zorrilla",
+    "photoUrl" : "/images/people/mariano.png",
+    "shortBio" : "Desarrollador Mobile desde el 2010. Developer en Zynga. Autodidacta y emprendedor.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/geekmz",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android", "Java", "Kotlin", "iOS", "Swift" ],
+    "title" : "Desarrollador"
   } ],
   "team" : [ {
     "members" : [ {
@@ -279,7 +462,7 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/juandelellis",
         "name" : "Twitter"
-      }],
+      } ],
       "title" : "Sponsors"
     }, {
       "name" : "Jonatan Ariste",
@@ -358,6 +541,12 @@
       "soldOut" : false,
       "starts" : "Nov 18"
     } ],
-    "url" : "https://www.meetup.com/es-ES/preview/GDG-Rio-de-La-Plata/events/244093746"
+    "url" : "https://www.meetup.com/es-ES/preview/GDG-Rio-de-La-Plata/events/244093746",
+    "url_barcamp" : "https://www.eventbrite.com/e/gdg-dev-fest-barcamp-buenos-aires-beer-is-coming-tickets-38542223829"
+  },
+  "userSessions" : {
+    "s74B6hGW1KOgj7QWisZRMTkQjsH3" : {
+      "102" : true
+    }
   }
 }

@@ -43,7 +43,7 @@
 
       paper-fab {
         --paper-fab-iron-icon: {
-          color: inherit;
+          color: #555;
         };
         transition: background 0.28s cubic-bezier(0.4, 0, 0.2, 1);
       }
@@ -102,7 +102,7 @@
       <paper-toolbar class="tall">
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
-          <iron-image class="fallback-image" src="/images/logo-white.svg"
+          <iron-image class="fallback-image" src="/images/logo-devrockersfest17.png"
                       alt="{$ title $}"></iron-image>
         </div>
       </paper-toolbar>
@@ -134,6 +134,9 @@
                 </span>
                 <span hidden$="[[!session.complexity]]">
                   [[session.complexity]]
+                </span>
+                <span hidden$="[[!session.reqs]]">
+                  [[session.reqs]]
                 </span>
               </div>
               <span class="meta">

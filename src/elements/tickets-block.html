@@ -83,7 +83,7 @@
         </template>
       </div>
       <div class="details">{$ ticketsDetails $}</div>
-      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+      <a href="" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
       </a>
     </div>
@@ -103,6 +103,13 @@
 
         _trackBuyClick: function (e) {
           HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', e.currentTarget.href);
+          var domain = window.location.hostname;
+          console.log(domain);
+          if(domain == 'www.barcamp.com.ar') {
+            window.open(this.app.tickets.url_barcamp);
+          }else{
+            window.open(this.app.tickets.url);
+          }
         }
 
       });
