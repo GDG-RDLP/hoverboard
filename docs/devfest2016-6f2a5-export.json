@@ -203,9 +203,9 @@
       "id" : 108,
       "language" : "Español",
       "reqs" : "",
-      "speakers" : [ [ 12 ] ],
+      "speakers" : [ [ 12 ], [ 13 ] ],
       "tags" : [ "Comunidad" ],
-      "title" : "Chicas en Tecnologia"
+      "title" : "Chicas en Tecnologia / Media Chicas"
     },
     "109" : {
       "description" : "La migración de AngularJs a Angular 2 no tiene por qué ser un dolor de cabeza. En esta charla descubriremos cómo preparar nuestras aplicaciones en Angular 1 para ser migradas a Angular 2, sin morir en el intentó.",
@@ -473,7 +473,24 @@
       "link" : "https://twitter.com/consu_l",
       "name" : "Twitter"
     } ],
-    "tags" : [ "Android", "Java", "Kotlin", "iOS", "Swift" ],
+    "tags" : [ "Comunidad" ],
+    "title" : "Desarrollador"
+  }, {
+    "bio" : "Co directora de Media Chicas, organización con la misión de fortalecer a mujeres en el cruce de la tecnología y comunicación digital. Fundadora de Conocimiento Abierto, organización especializada en apertura y análisis de datos para el impacto social y gobierno abierto.",
+    "company" : "Media Chicas",
+    "companyLogo" : "/images/logos/media-chicas.png",
+    "country" : "Buenos Aires, Argentina",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Yamila Garcia",
+    "photoUrl" : "/images/people/yas.jpg",
+    "shortBio" : "Co directora de Media Chicas, organización con la misión de fortalecer a mujeres en el cruce de la tecnología y comunicación digital.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/YasGarcia",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Comunidad" ],
     "title" : "Desarrollador"
   } ],
   "team" : [ {
