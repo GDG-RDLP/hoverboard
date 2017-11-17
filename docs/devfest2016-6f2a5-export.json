@@ -56,6 +56,11 @@
       "name" : "Media Chicas",
       "url" : "https://www.mediachicas.com/",
       "width" : 230
+    }, {
+      "logoUrl" : "../images/logos/microsoft.png",
+      "name" : "Microsoft",
+      "url" : "https://www.microsoft.com/es-ar",
+      "width" : 230
     } ],
     "title" : "Media partners y Amigos"
   }, {
@@ -108,11 +113,11 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 1004 ], [ 106 ], [ 1004 ], [ 105 ] ],
+      "sessions" : [ [ 1004 ], [ 106 ], [ 10040 ], [ 105 ] ],
       "startTime" : "14:00"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 103 ], [ 1004 ], [ 1004 ], [ 1050 ] ],
+      "sessions" : [ [ 103 ], [ 1004 ], [ 10040 ], [ 1050 ] ],
       "startTime" : "15:00"
     }, {
       "endTime" : "17:00",
@@ -120,7 +125,7 @@
       "startTime" : "16:00"
     }, {
       "endTime" : "18:00",
-      "sessions" : [ [ 108 ], [ 109 ], [ 1005 ], [ 1004 ] ],
+      "sessions" : [ [ 108 ], [ 109 ], [ 1004 ], [ 10040 ] ],
       "startTime" : "17:00"
     }, {
       "endTime" : "19:00",
@@ -238,6 +243,12 @@
     "1004" : {
       "description" : "Dentro de este modulo van a encontrar charlas que se van a ir registrando el mismo dia del evento.",
       "id" : 1004,
+      "image" : "/images/backgrounds/barcamp2.jpg",
+      "title" : "¡Módulo Barcamp!"
+    },
+    "10040" : {
+      "description" : "Dentro de este modulo van a encontrar charlas que se van a ir registrando el mismo dia del evento.",
+      "id" : 10040,
       "image" : "/images/backgrounds/barcamp2.jpg",
       "title" : "¡Módulo Barcamp!"
     },
